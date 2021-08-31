@@ -2,36 +2,8 @@
 
 San Diego State University BDA Program
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I would like to introduce the webpage **[Data Europa.]** (https://data.europa.eu/en)
+The data on this website spans 36 different countries and breaks down over a million of datasets into 13 digestible categories. The data contained on this webpage could be used to detect trends in health, transportation, and other key aspects of life in the European Union. The webpage also contains various articles and projects that have been started; many of these articles could be linked together to draw additional knowledge about human dynamics in the E.U.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clairemerson/clairemerson.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I would like to introduce the book **[Interactive Data Visualization for the Web.]** (https://www.amazon.com/Interactive-Data-Visualization-Web-Introduction/dp/1449339735) by Scott Murray with O'Reilly Media.
+This book interests me as I think being able to present information we have learned through data to people on a granular, visual way is increasingly important. Especially in the age of contstant information through the internet, producing impactful graphics to display information is paramount for teaching.
